@@ -15,6 +15,6 @@ public class Node {
 
             public String toString(){
 
-        return city + "Has a distance of " + distance + " kilometers";
+        return city + " has a distance of " + distance + " kilometers from Ringkøbing.";
             }
 }
